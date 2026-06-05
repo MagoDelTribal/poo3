@@ -1,5 +1,5 @@
 let indice = 0;
-let imagenes = ["assets/img/cherno.jpg", "assets/img/gipsy.png", "assets/img/striker.jpg", "assets/img/typhoon.jpg", "assets/img/mecha.jpg"];
+let imagenes = ["assets/img/cherno.jpg", "assets/img/gipsy.png", "assets/img/striker.jpg", "assets/img/typhoon.jpg"];
 
 
 document.getElementById("siguiente").addEventListener("click", () => {
